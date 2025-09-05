@@ -1,3 +1,11 @@
+# Anson's First CS193 Homework
+
+- The class is run by TA which is cool!
+- There are similar students like me in the class
+- I can learn more about useful tools like Git
+- It is pretty collaborative
+- There are many resources to get help from
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
